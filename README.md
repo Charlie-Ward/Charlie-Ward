@@ -6,15 +6,17 @@ Web Developer
 
 I've been learning to code for around 6 years now. I started in python before branching out into to learning html and java.
 
-* 🌍  I'm based in Leicester
-* 🖥️  See my portfolio at [here](http://charlie-ward.info/)
-* 🧠  I'm learning java
+* 🌍  I'm based in Leicester
+* 🖥️  See my portfolio at [here](http://charlie-ward.info/)
+* 🧠  I'm learning react
 
 <a href="https://www.twitter.com/CharlieWard0101" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CharlieWard0101?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/lousyboi_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/lousyboi_?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
 ### Skills
+
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -24,17 +26,22 @@ src="https://img.shields.io/twitch/status/lousyboi_?logo=twitchsx&style=for-the-
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/charlieward" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/charlie-ward" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20010057/charlie-ward" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/CharlieWard0101" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/lousyboi_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
-<figure><embed src="https://wakatime.com/share/@9cae4699-7284-4635-b40a-9ef3fafa5184/91d713eb-abc2-42a2-a09b-5a03922548a2.svg"></embed></figure>
+<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/charlie-ward"><img src="https://github-readme-stats.vercel.app/api?username=charlie-ward&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="charlie-ward's GitHub stats" /></a>
+<a href="http://www.github.com/charlie-ward"><img src="https://github-readme-stats.vercel.app/api?username=charlie-ward&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="charlie-ward's GitHub stats" /></a>
 
-<a href="http://www.github.com/charlie-ward"><img src="https://activity-graph.herokuapp.com/graph?username=charlie-ward&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/charlie-ward"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charlie-ward&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/charlie-ward"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=charlie-ward&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/charlie-ward" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie-ward&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
