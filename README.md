@@ -1,4 +1,4 @@
-Hi 👋 My name is Charlie Ward
+Hi my name is Charlie Ward
 =============================
 
 Web Developer
@@ -9,11 +9,6 @@ I've been learning to code for around 6 years now. I started in python before br
 * 🌍  I'm based in Leicester
 * 🖥️  See my portfolio at [here](http://charlie-ward.info/)
 * 🧠  I'm learning react
-
-<a href="https://www.twitter.com/CharlieWard0101" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/CharlieWard0101?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/lousyboi_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/lousyboi_?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
