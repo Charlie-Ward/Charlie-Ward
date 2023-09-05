@@ -1,14 +1,8 @@
 Hi my name is Charlie Ward
 =============================
 
-Web Developer
--------------
-
-I've been learning to code for around 6 years now. I started in python before branching out into to learning html and java.
-
 * 🌍  I'm based in Leicester
 * 🖥️  See my portfolio at [here](http://charlie-ward.info/)
-* 🧠  I'm learning react
 
 ### Skills
 
