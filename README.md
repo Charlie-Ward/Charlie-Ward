@@ -2,7 +2,7 @@ Hi my name is Charlie Ward
 =============================
 
 * 🌍  I'm based in Leicester
-* 🖥️  See my portfolio [here](http://charlieward.netlify.app/)
+* 🖥️  See my portfolio [here](http://charlie-ward.netlify.app/)
 
 ### Skills
 
