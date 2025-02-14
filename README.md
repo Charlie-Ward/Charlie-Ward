@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlie-ward&label=Profile%20views&color=0e75b6&style=flat" alt="charlie-ward" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlie-ward" alt="charlie-ward" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlie-ward&theme=juicyfresh" alt="charlie-ward" /></a> </p>
 
 - 🔭 I’m currently working on [CastConnect](https://github.com/Charlie-Ward/CastConnect), [Dimension Delvers](https://github.com/Charlie-Ward/dimension-delvers-mod) and [CW Lighting](https://github.com/Charlie-Ward/cw-lighting)
 
